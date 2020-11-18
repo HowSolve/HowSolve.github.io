@@ -1596,8 +1596,11 @@ pre code {
 }
 
 
-.col-sm-4 {
-  padding--bottom: 15px;
+.col-ez {
+  float: left;
+  position: relative;
+  min-height: 1px;
+  padding: 5px;
 }
 
 

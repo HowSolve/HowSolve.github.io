@@ -1596,15 +1596,6 @@ pre code {
 }
 
 
-.col-ez {
-  float: left;
-  position: relative;
-  min-height: 1px;
-  padding: 5px;
-  width: 30%;
-}
-
-
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
 }
@@ -1791,6 +1782,7 @@ pre code {
   }
   .col-sm-4 {
     width: 33.33333333%;
+    padding-bottom: 15;
   }
   .col-sm-3 {
     width: 25%;

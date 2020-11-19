@@ -1,11 +1,11 @@
 # Site settings
 title: 
-email: howsolve_support@gmail.com
+email: howsolve_inc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: howsolve
+twitter_username: howsolve_inc
 github_username: howsolve
 
 # Build settings
